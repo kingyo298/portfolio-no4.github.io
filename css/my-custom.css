@@ -9,6 +9,8 @@ body{
   line-height: 1;
   overflow-x: hidden;
   font-weight: bold;
+    /* スマホ横向きのサイズ調整 */
+  -webkit-text-size-adjust:100%
 }
 
 a{
